@@ -1,3 +1,4 @@
+package Algorithm.programmers.byAlgorithm;
 import java.util.*;
 class sort_3 {
     public int solution(int[] citations) {
