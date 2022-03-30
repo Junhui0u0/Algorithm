@@ -1,3 +1,4 @@
+package Algorithm.programmers.byAlgorithm;
 class brute_force_3 {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
