@@ -1,3 +1,4 @@
+package Algorithm.programmers.byAlgorithm;
 import java.util.*;
 
 public class hash_4 {
