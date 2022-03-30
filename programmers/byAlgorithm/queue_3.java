@@ -1,3 +1,4 @@
+package Algorithm.programmers.byAlgorithm;
 import java.util.*;
 class queue_3 {
     
